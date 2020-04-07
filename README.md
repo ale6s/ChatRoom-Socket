@@ -1,10 +1,10 @@
 # ChatRoom-Socket
 Express JS
 
-#installation
--npm init -y
--npm i -s socket.io
--run
--npm app
+#installation<br/>
+npm init -y<br/>
+npm i -s socket.io<br/>
+run<br/>
+npm app<br/>
 
---Enjoy!
+Enjoy!
