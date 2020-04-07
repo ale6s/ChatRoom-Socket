@@ -2,9 +2,9 @@
 Express JS
 
 #installation
-npm init -y
-npm i -s socket.io
-run
-npm app
+--npm init -y
+--npm i -s socket.io
+--run
+--npm app
 
-Enjoy!
+--Enjoy!
