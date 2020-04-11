@@ -3,6 +3,7 @@ Express JS
 
 #installation<br/>
 - npm init -y<br/>
+- npm i express<br/>
 - npm i -s socket.io<br/>
 - run<br/>
 - npm app<br/>
